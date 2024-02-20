@@ -4,7 +4,7 @@
 3. In other systems you can just run the Python file "encrypter.py". You may need to install the `cryptocode` python library.
 
 # Usage
-When you run the programm it will show you a dialoge. You only have to follow the instructions. /n
+When you run the programm it will show you a dialoge. You only have to follow the instructions. \n 
 NOTE: "password" is not stored anywhere, you must remember it or you won't be able to decrypt your data. 
 
 # Example of use
