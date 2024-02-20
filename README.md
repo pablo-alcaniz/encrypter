@@ -1,7 +1,7 @@
 # Installation
 1. Do a git clone of the repository in your prefered directory.
 2. In linux systems you can run the binary located in .../simple-encrypter/dist/encrypter/
-3. In other systems you can just run the Python file "encrypter.py". You may need to install the `cryptocode` library.
+3. In other systems you can just run the Python file "encrypter.py". You may need to install the `cryptocode` python library.
 
 # Usage
 When you run the programm it will show you a dialoge. You only have to follow the instructions.
