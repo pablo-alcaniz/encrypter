@@ -15,7 +15,7 @@ NOTE: "password" is not stored anywhere. You must remember it or you won't be ab
 Make a symbolic link of the executable inside `dist/` folder to `/usr/local/bin`. 
 
 # Tested Linux distributions
-· Arch Linux.
+- Arch Linux.
 
 # Example of use
 ```
